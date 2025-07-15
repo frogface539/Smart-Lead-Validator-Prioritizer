@@ -1,0 +1,32 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging
+*.log
+
+# Jupyter Notebooks (if used)
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# Demo video
+demo.mp4
+
+# Output files
+*.csv
+*.xlsx
